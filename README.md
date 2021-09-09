@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://www.youtube.com/watch?v=1EVwGxXU84w&ab_channel=Duomly
 https://www.youtube.com/watch?v=M8zenNqxk6c&ab_channel=CodeWithVishal
+https://www.blog.duomly.com/implement-redux-saga-with-reactjs-and-redux/
